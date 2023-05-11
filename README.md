@@ -1,4 +1,5 @@
 # LittleMaidMob-AdachiRei
+<img src="https://img.shields.io/github/downloads/haineko0407/LittleMaidMob-AdachiRei/total?style=for-the-badge">
 ### [概要]
 ・Minecraft LittleMaidMobMod、およびその後継modで使える 第三世代キャラクターヒューマノイド 試作0号機 HCI3-P0 足立レイのマルチモデルパックです
 
